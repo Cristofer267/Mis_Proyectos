@@ -57,7 +57,7 @@
             this.tbx_Articulo = new System.Windows.Forms.TextBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.lbl_Precio = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.Btn_Buscar = new System.Windows.Forms.Button();
             this.lbl_ID = new System.Windows.Forms.Label();
             this.DGV_ID = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_Facturar)).BeginInit();
@@ -340,21 +340,21 @@
             this.lbl_Precio.TabIndex = 71;
             this.lbl_Precio.Text = "0";
             // 
-            // button1
+            // Btn_Buscar
             // 
-            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(325, 37);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(48, 26);
-            this.button1.TabIndex = 72;
-            this.button1.Text = "Buscar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.Btn_Buscar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Btn_Buscar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.Btn_Buscar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.Btn_Buscar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.Btn_Buscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Btn_Buscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Btn_Buscar.Location = new System.Drawing.Point(325, 37);
+            this.Btn_Buscar.Name = "Btn_Buscar";
+            this.Btn_Buscar.Size = new System.Drawing.Size(48, 26);
+            this.Btn_Buscar.TabIndex = 72;
+            this.Btn_Buscar.Text = "Buscar";
+            this.Btn_Buscar.UseVisualStyleBackColor = true;
+            this.Btn_Buscar.Click += new System.EventHandler(this.Btn_Buscar_Click);
             // 
             // lbl_ID
             // 
@@ -386,7 +386,7 @@
             this.ClientSize = new System.Drawing.Size(777, 599);
             this.Controls.Add(this.DGV_ID);
             this.Controls.Add(this.lbl_ID);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.Btn_Buscar);
             this.Controls.Add(this.lbl_Precio);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.tbx_Cliente);
@@ -405,7 +405,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Facturar";
             this.Text = "Facturar";
-            this.Load += new System.EventHandler(this.Facturar_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DGV_Facturar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ID)).EndInit();
@@ -430,7 +429,7 @@
         private System.Windows.Forms.Button btn_Agregar;
         private System.Windows.Forms.Label label1;
         public System.Windows.Forms.TextBox tbx_Articulo;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button Btn_Buscar;
         public System.Windows.Forms.Label lbl_Precio;
         private System.Windows.Forms.DataGridViewTextBoxColumn Articulo;
         private System.Windows.Forms.DataGridViewTextBoxColumn Cantidad;

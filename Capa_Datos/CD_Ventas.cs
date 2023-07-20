@@ -1,23 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.SqlClient;
 using System.Data;
-using System.Collections;
 
 namespace Capa_Datos
 {
     public class CD_Ventas
     {
+        //Instanciar la clase conexion
         private readonly CD_Conexion Conexion = new CD_Conexion();
 
+        //Variables para consultas a la base de datos
         SqlDataReader leer;
         readonly DataTable tabla = new DataTable();
         readonly SqlCommand comando = new SqlCommand();
 
-
+        //Metodo para consultar todos los articulos que se han vendidos
         public DataTable Mostrar()
         {
             comando.Connection = Conexion.AbrirConexion();
@@ -30,6 +26,7 @@ namespace Capa_Datos
 
         }
 
+        //Metodo para mostrar la ultima factura creada, este dato se utiliza para agregar al pdf su numero de factura
         public DataTable MostrarF()
         {
             comando.Connection = Conexion.AbrirConexion();
@@ -42,16 +39,6 @@ namespace Capa_Datos
 
         }
 
-        public void InsertFactura(string Cliente,double Total)
-
-        {
-            comando.Connection = Conexion.AbrirConexion();
-            comando.CommandText = "sp_CrearFactura";
-            comando.CommandType = CommandType.StoredProcedure;
-            comando.Parameters.AddWithValue("@CustomerID", Cliente);
-            comando.Parameters.AddWithValue("@Total", Total);
-            comando.ExecuteNonQuery();
-
-        }
+        
     }
 }

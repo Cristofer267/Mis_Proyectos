@@ -16,3 +16,12 @@ C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Cap
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.dll
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

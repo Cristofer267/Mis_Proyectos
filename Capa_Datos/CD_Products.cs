@@ -1,24 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.SqlClient;
 using System.Data;
-using System.Collections;
 
 namespace Capa_Datos
 {
     public class CD_Products
     {
-
+        //Instanciar la clase conexion
         private readonly CD_Conexion Conexion = new CD_Conexion();
 
+        //Variables para consultas a la base de datos
         SqlDataReader leer;
         readonly DataTable tabla = new DataTable();
         readonly SqlCommand comando = new SqlCommand();
 
-
+        //Metodo para mostrar los productos existentes
         public DataTable Mostrar()
         {
             comando.Connection = Conexion.AbrirConexion();
@@ -30,7 +25,7 @@ namespace Capa_Datos
             return tabla;
 
         }
-
+        //metodo para validar que las cantidades solicitadas sean las existentes, retorna un boleano con por cada consulta
         public bool Cantidades(int Id, int Stock)
         {
             comando.Connection = Conexion.AbrirConexion();
@@ -46,7 +41,7 @@ namespace Capa_Datos
 
         }
 
-
+        //Metodo para insertar productos nuevos
         public void Insert ( string Nombre, string Descripcion, int Stock, string Categoria ,double Precio , string size, string color )
 
         {
@@ -64,6 +59,7 @@ namespace Capa_Datos
 
         }
         
+        //Metodo para editar los productos conforme Id
         public void Editar(int Id, string Nombre, string Descripcion, int Stock, string Categoria, double Precio, string size, string color)
 
         {
@@ -80,6 +76,8 @@ namespace Capa_Datos
             comando.Parameters.AddWithValue("@Color", color);
             comando.ExecuteNonQuery();
         }
+
+        //Metodo para eliminar Productos
         public void Eliminar(int Id)
 
         {
@@ -90,8 +88,7 @@ namespace Capa_Datos
             comando.ExecuteNonQuery();
         }
 
-       
-        
+        //Metodo para eliminar Cantidades Vendidas
         public void AlterarDatos(int Id, int Stock)
         {
             comando.Connection = Conexion.AbrirConexion();

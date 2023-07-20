@@ -1,12 +1,4 @@
 ﻿using Capa_Negocio;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Solo_Cuero
@@ -16,13 +8,25 @@ namespace Solo_Cuero
         public Ventas()
         {
             InitializeComponent();
-            MostrarProductos();
+            try
+            {
+                //Llamamos al metodo MostrarVentas
+                MostrarVentas();
+            }
+            catch { MessageBox.Show("Hubo un Error inesperado, Favor intentar nuevamente"); }
+            
         }
-        public void MostrarProductos()
-        {
-            CN_Ventas objetoCN = new CN_Ventas();
-            DGV_Ventas.DataSource = objetoCN.MostrarVentas();
 
+        //Creamos el metodo para mostrar las ventas
+        public void MostrarVentas()
+        {
+            try
+            {
+                CN_Ventas objetoCN = new CN_Ventas();
+                DGV_Ventas.DataSource = objetoCN.MostrarVentas();
+            }
+            catch { MessageBox.Show("Hubo un Error inesperado, Favor intentar nuevamente"); }
+            
         }
     }
 }

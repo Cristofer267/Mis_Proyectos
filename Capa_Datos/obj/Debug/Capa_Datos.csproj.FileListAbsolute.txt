@@ -10,3 +10,9 @@ C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Datos\obj\Debug\Capa_
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Datos\obj\Debug\Capa_Datos.dll
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Capa_Datos\obj\Debug\Capa_Datos.pdb

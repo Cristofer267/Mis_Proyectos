@@ -44,3 +44,30 @@ C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Solo Cuero\bin\Debug\itext
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Solo Cuero\obj\Debug\Solo_Cuero.ListProduc.resources
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Solo Cuero\obj\Debug\Solo_Cuero.InventarioP.resources
 C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Solo Cuero\obj\Debug\Solo_Cuero.Ventas.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Solo Cuero.exe.config
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Solo Cuero.exe
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Solo Cuero.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Capa_Negocio.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\itextsharp.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\bin\Debug\itextsharp.xml
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.Facturar.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.frm_InsertProducts.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.InventarioP.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.ListProduc.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.frm_login.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.frm_menu.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.frm_Products.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.Properties.Resources.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo_Cuero.Ventas.resources
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo Cuero.exe
+C:\Users\Hp\Desktop\Mis_Proyectos-main\Cristofer267\Mis_Proyectos\Solo Cuero\obj\Debug\Solo Cuero.pdb

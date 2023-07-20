@@ -33,32 +33,32 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.lb_Titulo = new System.Windows.Forms.Label();
+            this.pbx_Logo = new System.Windows.Forms.PictureBox();
             this.DGV_Ventas = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_Logo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_Ventas)).BeginInit();
             this.SuspendLayout();
             // 
-            // label1
+            // lb_Titulo
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(259, 36);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(213, 25);
-            this.label1.TabIndex = 67;
-            this.label1.Text = "Registro de Ventas";
+            this.lb_Titulo.AutoSize = true;
+            this.lb_Titulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_Titulo.Location = new System.Drawing.Point(259, 36);
+            this.lb_Titulo.Name = "lb_Titulo";
+            this.lb_Titulo.Size = new System.Drawing.Size(213, 25);
+            this.lb_Titulo.TabIndex = 67;
+            this.lb_Titulo.Text = "Registro de Ventas";
             // 
-            // pictureBox2
+            // pbx_Logo
             // 
-            this.pictureBox2.Image = global::Solo_Cuero.Properties.Resources.ventas;
-            this.pictureBox2.Location = new System.Drawing.Point(153, 12);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(100, 71);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 69;
-            this.pictureBox2.TabStop = false;
+            this.pbx_Logo.Image = global::Solo_Cuero.Properties.Resources.ventas;
+            this.pbx_Logo.Location = new System.Drawing.Point(153, 12);
+            this.pbx_Logo.Name = "pbx_Logo";
+            this.pbx_Logo.Size = new System.Drawing.Size(100, 71);
+            this.pbx_Logo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pbx_Logo.TabIndex = 69;
+            this.pbx_Logo.TabStop = false;
             // 
             // DGV_Ventas
             // 
@@ -129,12 +129,12 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(203)))), ((int)(((byte)(163)))));
             this.ClientSize = new System.Drawing.Size(777, 599);
             this.Controls.Add(this.DGV_Ventas);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.pbx_Logo);
+            this.Controls.Add(this.lb_Titulo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Ventas";
             this.Text = "Ventas";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_Logo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_Ventas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -142,8 +142,8 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label lb_Titulo;
+        private System.Windows.Forms.PictureBox pbx_Logo;
         public System.Windows.Forms.DataGridView DGV_Ventas;
     }
 }

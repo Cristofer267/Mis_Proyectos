@@ -14,28 +14,32 @@ namespace Solo_Cuero
 {
     public partial class InventarioP : Form
     {
-        CN_Products objetoCN = new CN_Products();
+        //Instanciar la clase CN_Products
+        readonly CN_Products objetoCN = new CN_Products();
         public InventarioP()
         {
             InitializeComponent();
-        }
-
-        private void InventarioP_Load(object sender, EventArgs e)
-        {
             MostrarProductos();
         }
+        
+        //Metodo para mostrar mediante grafico las cantidades por producto
         public void MostrarProductos()
         {
-            ArrayList Nombre = new ArrayList();
-            ArrayList Cantidad = new ArrayList();
-            DataTable lista = objetoCN.MostrarProd();
-            foreach (DataRow row in lista.Rows) {
-                Nombre.Add(row["Nombre"]);
-                Cantidad.Add(row["Stock"]);
-            }
-            chartPoducts.Series[0].Points.DataBindXY(Nombre,Cantidad) ;
+            try 
+            { 
+                //Declaramos variables de areglos de lista para almacenar los productos y agregarlos al grafico
+                ArrayList Nombre = new ArrayList();
+                ArrayList Cantidad = new ArrayList();
+                DataTable lista = objetoCN.MostrarProd();
+                //Ciclo que inserta los productos al grafico
+                foreach (DataRow row in lista.Rows) {
+                    Nombre.Add(row["Nombre"]);
+                    Cantidad.Add(row["Stock"]);
+                }
+                chartPoducts.Series[0].Points.DataBindXY(Nombre,Cantidad) ;
+            } 
+            catch { MessageBox.Show("Hubo un Error inesperado, Favor intentar nuevamente"); }
             
-
         }
     }
 }
