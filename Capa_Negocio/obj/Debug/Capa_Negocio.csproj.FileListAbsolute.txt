@@ -1,0 +1,18 @@
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Hp\Downloads\Solo_Cuero-main\Solo_Cuero-main\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
