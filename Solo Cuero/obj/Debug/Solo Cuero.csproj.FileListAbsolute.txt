@@ -1,0 +1,12 @@
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\bin\Debug\Solo Cuero.exe.config
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\bin\Debug\Solo Cuero.exe
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\bin\Debug\Solo Cuero.pdb
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo Cuero.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo Cuero.csproj.SuggestedBindingRedirects.cache
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo_Cuero.Properties.Resources.resources
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo Cuero.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo Cuero.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo Cuero.exe
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo Cuero.pdb
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo_Cuero.frm_login.resources
+C:\Users\josue\Desktop\UdeM\Segundo Cuatrimestre 2023\New folder\Solo Cuero\Solo Cuero\obj\Debug\Solo_Cuero.frm_menu.resources
